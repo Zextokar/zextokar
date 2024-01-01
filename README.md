@@ -1,8 +1,6 @@
 Hi 👋 My name is Zextokar
 =========================
 
-Soy un apasionado desarrollador web con una habilidad innata para transformar ideas creativas en experiencias digitales impactantes. Mi enfoque se centra en la creación y mantenimiento de sitios web robustos y visualmente atractivos.
-
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [rrodriguez.rrg28@gmail.com](mailto:rrodriguez.rrg28@gmail.com)
 * 🧠  I'm learning React
